@@ -1,16 +1,12 @@
-## I'm a Second-Year✨✨ Industrial Engineering student🤓👩‍🎓 studying at Technological Institute of the Philippines QC🥲
+## Hi👋 I'm Allizza
+I am a Second-Year Industrial Engineering student🤓👩‍🎓 studying at Technological Institite of the Philippines QC🥲🙏
 
-<!--
-**llzznnv/llzznnv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm currently into...🤔
+- Drawing
+- Running
+- Watching movies
+## Contacts👥📩
+- ✉️ qamanonuevo@tip.edu.ph
+- ✉️ allizza.anonuevo10@gmail.com
+- 📞 09762809845
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
